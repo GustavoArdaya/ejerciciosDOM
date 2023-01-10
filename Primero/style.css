@@ -1,0 +1,6 @@
+.listClass {
+    display: flex;
+    gap:5px;
+    justify-content: center;
+    padding: 5px;
+}
